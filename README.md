@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Backend Repo
+
+chatter-web-app-backend: <a href = "https://github.com/shekharbandhu/chatter-web-app-backend"> chatter-backend</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
